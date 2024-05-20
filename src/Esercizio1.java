@@ -43,6 +43,22 @@ public class Esercizio1 {
         return newArray;
     }
 
+//    String[] result = new String[6];
+//for(
+//    int i = 0;
+//    i<result.length;i++)
+//
+//    {
+//        if (i < 2) {
+//            result[i] = array[i];
+//        } else if (i == 2) {
+//            result[i] = string;
+//        } else {
+//            result[i] = array[i - 1];
+//        }
+//    }
+//return result;
+
 
 }
 
