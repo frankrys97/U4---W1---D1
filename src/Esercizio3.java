@@ -14,6 +14,7 @@ public class Esercizio3 {
         System.out.println("L'area del triangolo e': " + Double.toString(areaTri).substring(0, 5));
 
 
+
     }
 
     public static double perimRectangle(double a, double b) {
